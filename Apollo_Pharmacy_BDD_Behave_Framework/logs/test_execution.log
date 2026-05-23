@@ -1,0 +1,249 @@
+2026-05-23 12:36:04,461 - INFO - ====== WebDriver manager ======
+2026-05-23 12:36:06,523 - INFO - Driver [C:\Users\arunn\.wdm\drivers\chromedriver\win64\148.0.7778.178\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-05-23 12:36:14,845 - INFO - Homepage loaded
+2026-05-23 12:36:27,946 - INFO - Buy Medicines clicked
+2026-05-23 12:36:48,072 - INFO - Category 5 opened
+2026-05-23 12:36:48,087 - INFO - Product page loaded
+2026-05-23 12:37:11,331 - INFO - Filters applied
+2026-05-23 12:37:11,338 - INFO - Filters validation passed
+2026-05-23 12:37:31,476 - INFO - Product added to cart
+2026-05-23 12:37:41,304 - INFO - Cart validation passed
+2026-05-23 12:37:53,514 - INFO - Proceed clicked
+2026-05-23 12:37:53,545 - INFO - Mobile validation passed
+2026-05-23 12:38:12,756 - INFO - Mobile entered
+2026-05-23 12:38:59,833 - INFO - Select address clicked
+2026-05-23 12:39:38,639 - INFO - ====== WebDriver manager ======
+2026-05-23 12:39:40,956 - INFO - Driver [C:\Users\arunn\.wdm\drivers\chromedriver\win64\148.0.7778.178\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-05-23 12:39:49,048 - INFO - Homepage loaded
+2026-05-23 12:40:02,158 - INFO - Buy Medicines clicked
+2026-05-23 12:40:15,220 - INFO - Exception captured: Invalid index: 50
+2026-05-23 12:40:15,221 - INFO - Negative validation passed
+2026-05-23 12:40:17,955 - INFO - ====== WebDriver manager ======
+2026-05-23 12:40:20,149 - INFO - Driver [C:\Users\arunn\.wdm\drivers\chromedriver\win64\148.0.7778.178\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-05-23 12:40:29,051 - INFO - Homepage loaded
+2026-05-23 12:40:42,158 - INFO - Buy Medicines clicked
+2026-05-23 12:41:02,328 - INFO - Category 3 opened
+2026-05-23 12:41:02,337 - INFO - Product page loaded
+2026-05-23 12:41:02,723 - INFO - Invalid page opened
+2026-05-23 12:41:07,741 - INFO - Invalid page validation passed
+2026-05-23 12:41:10,473 - INFO - ====== WebDriver manager ======
+2026-05-23 12:41:12,577 - INFO - Driver [C:\Users\arunn\.wdm\drivers\chromedriver\win64\148.0.7778.178\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-05-23 12:41:19,512 - INFO - Homepage loaded
+2026-05-23 12:41:32,617 - INFO - Buy Medicines clicked
+2026-05-23 12:41:52,717 - INFO - Category 1 opened
+2026-05-23 12:41:52,782 - INFO - Product page loaded
+2026-05-23 12:42:15,916 - INFO - Filters applied
+2026-05-23 12:42:15,923 - INFO - Filters validation passed
+2026-05-23 12:42:41,457 - INFO - ====== WebDriver manager ======
+2026-05-23 12:42:43,187 - INFO - Driver [C:\Users\arunn\.wdm\drivers\chromedriver\win64\148.0.7778.178\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-05-23 12:42:49,138 - INFO - Homepage loaded
+2026-05-23 12:43:02,214 - INFO - Buy Medicines clicked
+2026-05-23 12:43:22,443 - INFO - Category 3 opened
+2026-05-23 12:43:22,453 - INFO - Product page loaded
+2026-05-23 12:43:45,592 - INFO - Filters applied
+2026-05-23 12:43:45,599 - INFO - Filters validation passed
+2026-05-23 12:44:05,733 - INFO - Product added to cart
+2026-05-23 12:44:17,294 - INFO - Cart validation passed
+2026-05-23 12:44:19,754 - INFO - ====== WebDriver manager ======
+2026-05-23 12:44:22,292 - INFO - Driver [C:\Users\arunn\.wdm\drivers\chromedriver\win64\148.0.7778.178\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-05-23 12:44:27,092 - INFO - Homepage loaded
+2026-05-23 12:44:40,228 - INFO - Buy Medicines clicked
+2026-05-23 12:45:00,326 - INFO - Category 4 opened
+2026-05-23 12:45:03,030 - INFO - Product page loaded
+2026-05-23 12:45:26,182 - INFO - Filters applied
+2026-05-23 12:45:26,188 - INFO - Filters validation passed
+2026-05-23 12:45:46,301 - INFO - Product added to cart
+2026-05-23 12:45:58,014 - INFO - Cart validation passed
+2026-05-23 12:46:00,574 - INFO - ====== WebDriver manager ======
+2026-05-23 12:46:03,966 - INFO - Driver [C:\Users\arunn\.wdm\drivers\chromedriver\win64\148.0.7778.178\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-05-23 12:46:10,636 - INFO - Homepage loaded
+2026-05-23 12:46:23,762 - INFO - Buy Medicines clicked
+2026-05-23 12:46:43,868 - INFO - Category 3 opened
+2026-05-23 12:46:43,878 - INFO - Product page loaded
+2026-05-23 12:47:03,989 - INFO - Product added to cart
+2026-05-23 12:47:10,510 - INFO - Quantity increased
+2026-05-23 12:47:16,826 - INFO - Quantity decreased
+2026-05-23 12:47:16,828 - INFO - Cart quantity validation passed
+2026-05-23 12:53:16,193 - INFO - ====== WebDriver manager ======
+2026-05-23 12:53:18,024 - INFO - Driver [C:\Users\arunn\.wdm\drivers\chromedriver\win64\148.0.7778.178\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-05-23 12:53:28,092 - INFO - Homepage loaded
+2026-05-23 12:53:41,394 - INFO - Buy Medicines clicked
+2026-05-23 12:54:01,714 - INFO - Category 5 opened
+2026-05-23 12:54:09,750 - INFO - Product page loaded
+2026-05-23 12:54:33,378 - INFO - Filters applied
+2026-05-23 12:54:41,400 - INFO - Filters validation passed
+2026-05-23 12:55:01,705 - INFO - Product added to cart
+2026-05-23 12:55:12,206 - INFO - Cart validation passed
+2026-05-23 12:55:24,649 - INFO - Proceed clicked
+2026-05-23 12:55:24,696 - INFO - Mobile validation passed
+2026-05-23 12:55:44,273 - INFO - Mobile entered
+2026-05-23 12:56:31,453 - INFO - Select address clicked
+2026-05-23 13:00:38,781 - INFO - ====== WebDriver manager ======
+2026-05-23 13:00:42,974 - INFO - Driver [C:\Users\arunn\.wdm\drivers\chromedriver\win64\148.0.7778.178\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-05-23 13:00:52,076 - INFO - Homepage loaded
+2026-05-23 13:01:05,217 - INFO - Buy Medicines clicked
+2026-05-23 13:01:25,507 - INFO - Category 5 opened
+2026-05-23 13:01:33,542 - INFO - Product page loaded
+2026-05-23 13:01:57,140 - INFO - Filters applied
+2026-05-23 13:02:05,173 - INFO - Filters validation passed
+2026-05-23 13:02:25,450 - INFO - Product added to cart
+2026-05-23 13:02:33,212 - INFO - Cart validation passed
+2026-05-23 13:02:45,698 - INFO - Proceed clicked
+2026-05-23 13:02:45,749 - INFO - Mobile validation passed
+2026-05-23 13:03:05,325 - INFO - Mobile entered
+2026-05-23 13:03:52,505 - INFO - Select address clicked
+2026-05-23 13:04:13,720 - INFO - Office address selected
+2026-05-23 13:04:18,741 - INFO - Address flow completed
+2026-05-23 13:09:04,983 - INFO - ====== WebDriver manager ======
+2026-05-23 13:09:09,025 - INFO - Driver [C:\Users\arunn\.wdm\drivers\chromedriver\win64\148.0.7778.178\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-05-23 13:09:17,241 - INFO - Homepage loaded
+2026-05-23 13:09:30,404 - INFO - Buy Medicines clicked
+2026-05-23 13:09:50,781 - INFO - Category 5 opened
+2026-05-23 13:09:58,811 - INFO - Product page loaded
+2026-05-23 13:10:22,388 - INFO - Filters applied
+2026-05-23 13:10:30,408 - INFO - Filters validation passed
+2026-05-23 13:10:50,669 - INFO - Product added to cart
+2026-05-23 13:10:58,372 - INFO - Cart validation passed
+2026-05-23 13:11:10,851 - INFO - Proceed clicked
+2026-05-23 13:11:10,891 - INFO - Mobile validation passed
+2026-05-23 13:11:30,413 - INFO - Mobile entered
+2026-05-23 13:45:41,031 - INFO - ====== WebDriver manager ======
+2026-05-23 13:45:44,931 - INFO - Driver [C:\Users\arunn\.wdm\drivers\chromedriver\win64\148.0.7778.178\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-05-23 13:45:48,648 - INFO - Homepage loaded
+2026-05-23 13:46:02,067 - INFO - Buy Medicines clicked
+2026-05-23 13:46:22,314 - INFO - Category 1 opened
+2026-05-23 13:46:30,347 - INFO - Product page loaded
+2026-05-23 13:46:50,877 - INFO - Product added to cart
+2026-05-23 13:46:59,620 - INFO - Cart validation passed
+2026-05-23 13:47:02,682 - INFO - ====== WebDriver manager ======
+2026-05-23 13:47:06,153 - INFO - Driver [C:\Users\arunn\.wdm\drivers\chromedriver\win64\148.0.7778.178\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-05-23 13:47:12,547 - INFO - Homepage loaded
+2026-05-23 13:47:25,702 - INFO - Buy Medicines clicked
+2026-05-23 13:47:45,894 - INFO - Category 3 opened
+2026-05-23 13:47:53,947 - INFO - Product page loaded
+2026-05-23 13:48:17,504 - INFO - Filters applied
+2026-05-23 13:48:25,548 - INFO - Filters validation passed
+2026-05-23 13:48:45,777 - INFO - Product added to cart
+2026-05-23 13:48:56,308 - INFO - Cart validation passed
+2026-05-23 13:48:59,353 - INFO - ====== WebDriver manager ======
+2026-05-23 13:49:03,088 - INFO - Driver [C:\Users\arunn\.wdm\drivers\chromedriver\win64\148.0.7778.178\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-05-23 13:49:06,426 - INFO - Homepage loaded
+2026-05-23 13:49:19,639 - INFO - Buy Medicines clicked
+2026-05-23 13:49:39,829 - INFO - Category 4 opened
+2026-05-23 13:49:47,859 - INFO - Product page loaded
+2026-05-23 13:50:08,368 - INFO - Product added to cart
+2026-05-23 13:50:17,196 - INFO - Cart validation passed
+2026-05-23 13:50:20,110 - INFO - ====== WebDriver manager ======
+2026-05-23 13:50:23,292 - INFO - Driver [C:\Users\arunn\.wdm\drivers\chromedriver\win64\148.0.7778.178\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-05-23 13:50:27,724 - INFO - Homepage loaded
+2026-05-23 13:50:40,861 - INFO - Buy Medicines clicked
+2026-05-23 13:51:01,069 - INFO - Category 3 opened
+2026-05-23 13:51:09,106 - INFO - Product page loaded
+2026-05-23 13:51:29,691 - INFO - Product added to cart
+2026-05-23 13:51:36,814 - INFO - Quantity increased
+2026-05-23 13:51:43,716 - INFO - Quantity decreased
+2026-05-23 13:51:43,718 - INFO - Cart quantity validation passed
+2026-05-23 14:00:29,989 - INFO - ====== WebDriver manager ======
+2026-05-23 14:00:33,910 - INFO - Driver [C:\Users\arunn\.wdm\drivers\chromedriver\win64\148.0.7778.178\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-05-23 14:00:41,280 - INFO - Homepage loaded
+2026-05-23 14:00:54,472 - INFO - Buy Medicines clicked
+2026-05-23 14:01:14,732 - INFO - Category 1 opened
+2026-05-23 14:01:22,763 - INFO - Product page loaded
+2026-05-23 14:01:43,344 - INFO - Product added to cart
+2026-05-23 14:01:54,134 - INFO - Cart validation passed
+2026-05-23 14:01:57,149 - INFO - ====== WebDriver manager ======
+2026-05-23 14:02:00,667 - INFO - Driver [C:\Users\arunn\.wdm\drivers\chromedriver\win64\148.0.7778.178\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-05-23 14:02:08,378 - INFO - Homepage loaded
+2026-05-23 14:02:21,514 - INFO - Buy Medicines clicked
+2026-05-23 14:02:41,768 - INFO - Category 3 opened
+2026-05-23 14:02:49,798 - INFO - Product page loaded
+2026-05-23 14:03:13,307 - INFO - Filters applied
+2026-05-23 14:03:21,330 - INFO - Filters validation passed
+2026-05-23 14:03:41,633 - INFO - Product added to cart
+2026-05-23 14:03:54,334 - INFO - Cart validation passed
+2026-05-23 14:03:57,312 - INFO - ====== WebDriver manager ======
+2026-05-23 14:04:00,701 - INFO - Driver [C:\Users\arunn\.wdm\drivers\chromedriver\win64\148.0.7778.178\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-05-23 14:04:03,995 - INFO - Homepage loaded
+2026-05-23 14:04:17,137 - INFO - Buy Medicines clicked
+2026-05-23 14:04:37,329 - INFO - Category 4 opened
+2026-05-23 14:04:45,363 - INFO - Product page loaded
+2026-05-23 14:05:31,022 - INFO - Pagination / navigation successful
+2026-05-23 14:05:51,266 - INFO - Product added to cart
+2026-05-23 14:06:00,352 - INFO - Cart validation passed
+2026-05-23 14:06:03,316 - INFO - ====== WebDriver manager ======
+2026-05-23 14:06:06,486 - INFO - Driver [C:\Users\arunn\.wdm\drivers\chromedriver\win64\148.0.7778.178\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-05-23 14:06:13,361 - INFO - Homepage loaded
+2026-05-23 14:06:26,514 - INFO - Buy Medicines clicked
+2026-05-23 14:06:46,725 - INFO - Category 3 opened
+2026-05-23 14:06:54,760 - INFO - Product page loaded
+2026-05-23 14:07:15,234 - INFO - Product added to cart
+2026-05-23 14:07:22,390 - INFO - Quantity increased
+2026-05-23 14:07:29,240 - INFO - Quantity decreased
+2026-05-23 14:07:29,259 - INFO - Cart quantity validation passed
+2026-05-23 14:09:01,250 - INFO - ====== WebDriver manager ======
+2026-05-23 14:09:05,025 - INFO - Driver [C:\Users\arunn\.wdm\drivers\chromedriver\win64\148.0.7778.178\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-05-23 14:09:08,699 - INFO - Homepage loaded
+2026-05-23 14:09:21,971 - INFO - Buy Medicines clicked
+2026-05-23 14:09:42,261 - INFO - Category 5 opened
+2026-05-23 14:09:50,292 - INFO - Product page loaded
+2026-05-23 14:10:13,894 - INFO - Filters applied
+2026-05-23 14:10:21,921 - INFO - Filters validation passed
+2026-05-23 14:10:42,198 - INFO - Product added to cart
+2026-05-23 14:10:51,704 - INFO - Cart validation passed
+2026-05-23 14:11:04,192 - INFO - Proceed clicked
+2026-05-23 14:11:04,221 - INFO - Mobile validation passed
+2026-05-23 14:11:23,719 - INFO - Mobile entered
+2026-05-23 14:12:10,879 - INFO - Select address clicked
+2026-05-23 14:12:32,077 - INFO - Office address selected
+2026-05-23 14:12:37,080 - INFO - Address flow completed
+2026-05-23 14:12:40,500 - INFO - ====== WebDriver manager ======
+2026-05-23 14:12:44,011 - INFO - Driver [C:\Users\arunn\.wdm\drivers\chromedriver\win64\148.0.7778.178\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-05-23 14:12:51,480 - INFO - Homepage loaded
+2026-05-23 14:13:04,645 - INFO - Buy Medicines clicked
+2026-05-23 14:13:17,848 - INFO - Exception captured: Invalid index: 50
+2026-05-23 14:13:17,851 - INFO - Negative validation passed
+2026-05-23 14:13:20,996 - INFO - ====== WebDriver manager ======
+2026-05-23 14:13:24,258 - INFO - Driver [C:\Users\arunn\.wdm\drivers\chromedriver\win64\148.0.7778.178\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-05-23 14:13:27,536 - INFO - Homepage loaded
+2026-05-23 14:13:40,896 - INFO - Buy Medicines clicked
+2026-05-23 14:14:01,148 - INFO - Category 3 opened
+2026-05-23 14:14:09,179 - INFO - Product page loaded
+2026-05-23 14:14:09,874 - INFO - Invalid page opened
+2026-05-23 14:14:14,918 - INFO - Invalid page validation passed
+2026-05-23 14:14:18,257 - INFO - ====== WebDriver manager ======
+2026-05-23 14:14:21,521 - INFO - Driver [C:\Users\arunn\.wdm\drivers\chromedriver\win64\148.0.7778.178\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-05-23 14:14:30,691 - INFO - Homepage loaded
+2026-05-23 14:14:43,913 - INFO - Buy Medicines clicked
+2026-05-23 14:15:04,166 - INFO - Category 1 opened
+2026-05-23 14:15:12,337 - INFO - Product page loaded
+2026-05-23 14:15:32,954 - INFO - Product added to cart
+2026-05-23 14:15:42,474 - INFO - Cart validation passed
+2026-05-23 14:15:45,704 - INFO - ====== WebDriver manager ======
+2026-05-23 14:15:49,146 - INFO - Driver [C:\Users\arunn\.wdm\drivers\chromedriver\win64\148.0.7778.178\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-05-23 14:15:55,807 - INFO - Homepage loaded
+2026-05-23 14:16:08,951 - INFO - Buy Medicines clicked
+2026-05-23 14:16:29,136 - INFO - Category 3 opened
+2026-05-23 14:16:37,172 - INFO - Product page loaded
+2026-05-23 14:17:00,724 - INFO - Filters applied
+2026-05-23 14:17:08,749 - INFO - Filters validation passed
+2026-05-23 14:17:28,974 - INFO - Product added to cart
+2026-05-23 14:17:44,115 - INFO - Cart validation passed
+2026-05-23 14:17:47,255 - INFO - ====== WebDriver manager ======
+2026-05-23 14:17:50,404 - INFO - Driver [C:\Users\arunn\.wdm\drivers\chromedriver\win64\148.0.7778.178\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-05-23 14:17:53,584 - INFO - Homepage loaded
+2026-05-23 14:18:06,844 - INFO - Buy Medicines clicked
+2026-05-23 14:18:27,050 - INFO - Category 4 opened
+2026-05-23 14:18:35,083 - INFO - Product page loaded
+2026-05-23 14:19:21,147 - INFO - Pagination / navigation successful
+2026-05-23 14:19:41,380 - INFO - Product added to cart
+2026-05-23 14:19:51,798 - INFO - Cart validation passed
+2026-05-23 14:19:55,049 - INFO - ====== WebDriver manager ======
+2026-05-23 14:19:58,267 - INFO - Driver [C:\Users\arunn\.wdm\drivers\chromedriver\win64\148.0.7778.178\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-05-23 14:20:05,405 - INFO - Homepage loaded
+2026-05-23 14:20:18,532 - INFO - Buy Medicines clicked
+2026-05-23 14:20:38,734 - INFO - Category 3 opened
+2026-05-23 14:20:46,765 - INFO - Product page loaded
+2026-05-23 14:21:07,283 - INFO - Product added to cart
+2026-05-23 14:21:14,443 - INFO - Quantity increased
+2026-05-23 14:21:21,300 - INFO - Quantity decreased
+2026-05-23 14:21:21,302 - INFO - Cart quantity validation passed
